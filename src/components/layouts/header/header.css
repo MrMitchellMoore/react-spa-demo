@@ -1,0 +1,18 @@
+.__dml.header {
+  background-color: lightgray;
+  width: 100%;
+  padding: 20px 0;
+}
+
+.__dml.header ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.__dml.header ul .nav-links {
+  margin: 0 10px;
+  padding: 0 1rem 0 0;
+  text-decoration: none;
+}
